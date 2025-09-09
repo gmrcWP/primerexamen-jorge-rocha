@@ -13,3 +13,9 @@ El proyecto es el desarrolo de una landing page para la empresa MANACO utilizand
 - Todas las imágenes cuentan con atributos alt descriptivos.
 - Se probó la navegación con teclado.
 - Uso prudente de aria solo se aplicaron donde mejoran la comprensión semántica.
+
+## SEO
+- Se definió un title único.
+- Se añadió un meta name="description".
+- Se configuraron etiquetas Open Graph og:title, og:description, og:image.
+- Se usó una jerarquía clara de encabezados H1, H2 para secciones, H3 para productos.
